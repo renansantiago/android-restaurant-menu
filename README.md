@@ -23,4 +23,5 @@ fastlane test
 ## Deliverables
 
 [Technical design](https://docs.google.com/document/d/14INM4JN2yNP7EbWs4J3F34Wa1GfNHe6cBAKaezDyTjM/edit?usp=sharing)
+
 [Video demo of the app](https://drive.google.com/file/d/1L1LL8nOwW1RoTWt7QGxSeExCDe7pxCvH/view?usp=sharing)
