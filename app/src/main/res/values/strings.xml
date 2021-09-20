@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Restaurant Menu</string>
+    <string name="menu">MENU</string>
+    <string name="item_empty">-</string>
+    <string name="default_error">Error fetching information, check your connection and try again</string>
+</resources>

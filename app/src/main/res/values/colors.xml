@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#666666</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="textColorPrimary">#171616</color>
+    <color name="textColorSecondary">#777777</color>
+    <color name="textColorSubtitle">#202020</color>
+    <color name="divider">#EEEEEE</color>
+    <color name="line">#D8D8D8</color>
+    <color name="disabled">#CCCCCC</color>
+
+</resources>

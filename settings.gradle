@@ -1,0 +1,3 @@
+rootProject.name = 'android-restaurant-menu'
+
+include ":app"
